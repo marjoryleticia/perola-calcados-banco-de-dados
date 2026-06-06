@@ -1,3 +1,6 @@
+# DER - Pérola Calçados
+
+```mermaid
 erDiagram
 
     CLIENTE ||--o{ PEDIDO : realiza
@@ -71,3 +74,4 @@ erDiagram
         date data_entrega
         int id_pedido FK
     }
+```
